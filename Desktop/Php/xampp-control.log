@@ -1,0 +1,36 @@
+20:07:12  [main] 	Initializing Control Panel
+20:07:12  [main] 	Windows Version:  Home  64-bit
+20:07:12  [main] 	XAMPP Version: 7.4.29
+20:07:12  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+20:07:12  [main] 	You are not running with administrator rights! This will work for
+20:07:12  [main] 	most application stuff but whenever you do something with services
+20:07:12  [main] 	there will be a security dialogue or things will break! So think 
+20:07:12  [main] 	about running this application with administrator rights!
+20:07:12  [main] 	XAMPP Installation Directory: "c:\users\dell\desktop\php\"
+20:07:12  [main] 	Checking for prerequisites
+20:07:13  [main] 	All prerequisites found
+20:07:13  [main] 	Initializing Modules
+20:07:13  [Apache] 	XAMPP Apache is already running on port 80
+20:07:13  [Apache] 	XAMPP Apache is already running on port 443
+20:07:13  [mysql] 	XAMPP MySQL is already running on port 3306
+20:07:13  [main] 	Starting Check-Timer
+20:07:13  [main] 	Control Panel Ready
+20:20:46  [Apache] 	Status change detected: stopped
+20:20:46  [Apache] 	Error: Apache shutdown unexpectedly.
+20:20:46  [Apache] 	This may be due to a blocked port, missing dependencies, 
+20:20:46  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+20:20:46  [Apache] 	Press the Logs button to view error logs and check
+20:20:46  [Apache] 	the Windows Event Viewer for more clues
+20:20:46  [Apache] 	If you need more help, copy and post this
+20:20:46  [Apache] 	entire log window on the forums
+20:20:47  [mysql] 	Status change detected: stopped
+20:20:47  [mysql] 	Error: MySQL shutdown unexpectedly.
+20:20:47  [mysql] 	This may be due to a blocked port, missing dependencies, 
+20:20:47  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+20:20:47  [mysql] 	Press the Logs button to view error logs and check
+20:20:47  [mysql] 	the Windows Event Viewer for more clues
+20:20:47  [mysql] 	If you need more help, copy and post this
+20:20:47  [mysql] 	entire log window on the forums
+22:50:07  [main] 	Deinitializing Modules
+22:50:07  [main] 	Deinitializing Control Panel
+
